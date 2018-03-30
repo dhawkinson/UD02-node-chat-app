@@ -8,13 +8,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
-      "node": "9.8.0"
+    "node": "9.8.0"
   },
   "author": "Doug Hawkinson",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "socket.io": "^2.1.0"
   }
 }
